@@ -1,0 +1,23 @@
+{
+  "name": "ngrok-url-notifier",
+  "version": "1.0.0",
+  "description": " a server & client system for notification of the most recent ngrok url of a host",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdarcher/ngrok-url-notifier.git"
+  },
+  "keywords": [
+    "ngrok"
+  ],
+  "author": "Ethan Durrant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emdarcher/ngrok-url-notifier/issues"
+  },
+  "homepage": "https://github.com/emdarcher/ngrok-url-notifier#readme"
+}
